@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Lorena Pantano
 locale: en_US
-description: Describe your website here.
+description: Some bits of my work..
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -33,13 +33,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Lorena Pantano
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: lpantano@iscb.org
   disqus-shortname:
-  twitter: #username
+  twitter: lopantano
   facebook: #username
-  github: #username
+  github: lpantano
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
