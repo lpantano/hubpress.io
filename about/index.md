@@ -14,6 +14,10 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ## contributions
 
 * [bcbio](http://github.com/chapmanb/bcbio-nextgen)
+* [cloudbiolinux](http://github.com/chapmanb/cloudbiolinux)
+* [bcbio-rnaseq](https://github.com/roryk/bcbio.rnaseq)
+
+Read some non published work about tools comparison: https://github.com/lpantano/mypubs/blob/master/README.md
 
 ## publication
 
