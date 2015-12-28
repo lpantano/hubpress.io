@@ -19,6 +19,14 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 Read some non published work about tools comparison: [mypubs](https://github.com/lpantano/mypubs/blob/master/README.md)
 
+## courses
+
+* [Calculus one](https://www.coursera.org/learn/calculus1) (2015)
+* [Regression models](https://www.coursera.org/course/regmods) (2014)
+* [High performance Scientific Computing](https://www.coursera.org/course/scicomp) (2013, not finished)
+* [Machine learning](https://www.coursera.org/course/ml) (2012)
+* [Web developper](https://www.udacity.com/course/viewer#!/c-cs253) (2012)
+
 ## publication
 
 **Pantano, L., Friedländer, M. R., Escaramís, G., Lizano, E., Pallarès-Albanell, J., Ferrer, I., … Martí, E. (2015). Specific Small-RNA Signatures in the Amygdala at Premotor and Motor Stages of Parkinson’s Disease Revealed by Deep Sequencing Analysis. Bioinformatics (Oxford, England). http://doi.org/10.1093/bioinformatics/btv632**
