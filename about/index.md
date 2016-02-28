@@ -29,6 +29,10 @@ Read some non published work about tools comparison: [mypubs](https://github.com
 
 ## publication
 
+Bold papers I like most.
+
+Bailey P, Chang DK, Nones K, Johns AL,et al (me in the middle of >50 authors). (2016). Genomic analyses identify molecular subtypes of pancreatic cancer. Nature. doi: 10.1038/nature16965.
+
 **Pantano, L., Friedländer, M. R., Escaramís, G., Lizano, E., Pallarès-Albanell, J., Ferrer, I., … Martí, E. (2015). Specific Small-RNA Signatures in the Amygdala at Premotor and Motor Stages of Parkinson’s Disease Revealed by Deep Sequencing Analysis. Bioinformatics (Oxford, England). http://doi.org/10.1093/bioinformatics/btv632**
 
 **Pantano, L., Jodar, M., Bak, M., Ballescà, J. L., Tommerup, N., Oliva, R., & Vavouri, T. (2015). The small RNA content of human sperm reveals pseudogene-derived piRNAs complementary to protein-coding genes. RNA (New York, N.Y.), 21(6), 1085–95. http://doi.org/10.1261/rna.046482.114**
@@ -39,7 +43,7 @@ Martínez-Fundichely, A., Casillas, S., Egea, R., Ràmia, M., Barbadilla, A., Pa
 
 Llorens, F., Hummel, M., Pantano, L., Pastor, X., Vivancos, A., Castillo, E., … Sumoy, L. (2013). Microarray and deep sequencing cross-platform analysis of the mirRNome and isomiR variation in response to epidermal growth factor. BMC Genomics, 14, 371. http://doi.org/10.1186/1471-2164-14-371
 
-Llorens, F., Bañez-Coronel, M., Pantano, L., del Río, J. A., Ferrer, I., Estivill, X., & Martí, E. (2013). A highly expressed miR-101 isomiR is a functional silencing small RNA. BMC Genomics, 14, 104. http://doi.org/10.1186/1471-2164-14-104
+**Llorens, F., Bañez-Coronel, M., Pantano, L., del Río, J. A., Ferrer, I., Estivill, X., & Martí, E. (2013). A highly expressed miR-101 isomiR is a functional silencing small RNA. BMC Genomics, 14, 104. http://doi.org/10.1186/1471-2164-14-104**
 
 Bañez-Coronel, M., Porta, S., Kagerbauer, B., Mateu-Huertas, E., Pantano, L., Ferrer, I., … Martí, E. (2012). A Pathogenic Mechanism in Huntington’s Disease Involves Small CAG-Repeated RNAs with Neurotoxic Activity. PLoS Genetics, 8(2), e1002481. http://doi.org/10.1371/journal.pgen.1002481
 
