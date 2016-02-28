@@ -30,7 +30,7 @@ Read some non published work about tools comparison: [mypubs](https://github.com
 
 ## publication
 
-Bold papers I like most.
+Bold papers are the ones I like most.
 
 Bailey P, Chang DK, Nones K, Johns AL,et al (me in the middle of >50 authors). (2016). Genomic analyses identify molecular subtypes of pancreatic cancer. Nature. doi: 10.1038/nature16965.
 
