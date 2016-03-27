@@ -22,6 +22,7 @@ Read some non published work about tools comparison: [mypubs](https://github.com
 
 ## courses
 
+* [Practical Machine Learning](https://www.coursera.org/account/accomplishments/records/U9DACEG2H6CT) (2016)
 * [Calculus one](https://www.coursera.org/learn/calculus1) (2015)
 * [Regression models](https://www.coursera.org/course/regmods) (2014)
 * [High performance Scientific Computing](https://www.coursera.org/course/scicomp) (2013, not finished)
