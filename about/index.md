@@ -22,6 +22,9 @@ Read some non published work about tools comparison: [mypubs](https://github.com
 
 ## courses
 
+All listed from [coursera](https://www.coursera.org/accomplishments/).
+
+* [Principles of fMRI 1](https://www.coursera.org/learn/functional-mri)(2016)
 * [Practical Machine Learning](https://www.coursera.org/account/accomplishments/records/U9DACEG2H6CT) (2016)
 * [Calculus one](https://www.coursera.org/learn/calculus1) (2015)
 * [Regression models](https://www.coursera.org/course/regmods) (2014)
