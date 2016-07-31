@@ -6,7 +6,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 ## small RNA related projects
-
+  
 * [seqcluster](http://github.com/lpantano/seqcluster)
 * [seqbuster](http://github.com/lpantano/seqbuster)
 * [seqcluster browser report](https://github.com/lpantano/seqclusterViz)
@@ -31,6 +31,7 @@ All listed from [coursera](https://www.coursera.org/accomplishments/).
 * [High performance Scientific Computing](https://www.coursera.org/course/scicomp) (2013, not finished)
 * [Machine learning](https://www.coursera.org/course/ml) (2012)
 * [Web developper](https://www.udacity.com/course/viewer#!/c-cs253) (2012)
+* Introduction to Artificial Intelligence (www.ai-class.org) 2011
 
 ## publication
 
