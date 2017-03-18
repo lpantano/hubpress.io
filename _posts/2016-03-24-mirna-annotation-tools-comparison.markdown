@@ -2,7 +2,6 @@
 layout: post
 title: miRNA Annotation Tools Comparison
 modified:
-categories: 
 excerpt:
 categories: [comparison]
 tags: [miRNA]
