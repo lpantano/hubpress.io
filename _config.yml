@@ -6,11 +6,11 @@ description: Some bits of my work..
 # logo: site-logo.png
 search: true
 url: http://lpantano.github.io
-#url: http://localhost:4000
+# url: http://localhost:4000
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
